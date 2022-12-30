@@ -23,3 +23,19 @@ echo "The file does not exists!"
 fi
 
 
+if  [ -d ~/temp ]
+then
+	echo "The directory exists!"
+else
+	echo "The directory does not exists!"
+fi
+
+
+if [ -f ~/script1.sh ]
+then 
+	echo " The file exists!"
+else
+	echo "The the file does not exists"
+fi
+
+
