@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#Author: Felix FOKOU TAMOFO 
+# Year: 2024
+
+# This script can be used to find out if a software has been installed on a system. It is based on the sofware directory search. 
 
 mynum=150
 
