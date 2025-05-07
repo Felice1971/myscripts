@@ -13,10 +13,10 @@ read health
 
 if [ $health =  fine ]
 then
-	echo " Happy to hear that your are $health!"
+	echo " Happy to hear that your are in good $health!"
 
 else
-	echo " Soory that your are not doing well!"
+	echo " Sorry that your are not doing well!"
 
 fi       
 
